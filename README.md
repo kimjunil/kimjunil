@@ -20,7 +20,7 @@
 - 🤖 Aiffel YJ , Artificial Intelligence (2021.06~ )
 - 🎓 Yuhan University , Information & Communication Engineering (2005.03~2010.02)
 
-### I can do these well
+### Can do
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 </P>
 
-### I am studying these
+### Learning
 <p>
   <img src="https://img.shields.io/badge/Tensor Flow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit__learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
