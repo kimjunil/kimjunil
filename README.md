@@ -17,7 +17,7 @@
 - 🎟 N-flat , Co-founder, Software Engineer, Android Applications (2014.01~2017.07)
 
 ### Education
-- 🤖 Aiffel YJ , Artificial Intelligence (2021.06~ )
+- 🤖 Aiffel , Artificial Intelligence (2021.06~ )
 - 🎓 Yuhan University , Information & Communication Engineering (2005.03~2010.02)
 
 ### Can do
