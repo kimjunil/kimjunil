@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjunil&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kimjunil)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:iam@junil.kim) 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/woowang/)
-[![Blog Badge][![Blog Badge](https://img.shields.io/badge/Blog-555263?style=flat&logoColor=white)](https://velog.io/@kimjunil)
+[![Blog Badge](https://img.shields.io/badge/Blog-555263?style=flat&logoColor=white)](https://velog.io/@kimjunil)
   
 ### Introduce
 - 🧑‍💻 I’m Android application developer.
