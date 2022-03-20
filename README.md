@@ -5,19 +5,18 @@
 [![Blog Badge](https://img.shields.io/badge/Blog-555263?style=flat&logoColor=white)](https://velog.io/@kimjunil)
   
 ### Introduce
-- 🧑‍💻 I’m Android application developer.
-- 📚 I’m currently learning AI, DeepLearning
-- 💭 I want to become a machine learning engineer
-
+- 🧑‍💻 I’m MLOps Engineer
+- 📚 I was Android application developer.
 
 ### Experience
+- 🆀 Qraft Technologies, Infra Engineer, MLOps Engineer (2022.03~ )
 - ✈️ TourLive , Software Engineer, Android Applications (2020.02~2021.05)
 - 🛍 Linsy Korea , Software Engineer, Android Applications (2018.05~2019.11)
 - 📺 TTLabC , Software Engineer, Android Applications (2017.07~2017.10)
 - 🎟 N-flat , Co-founder, Software Engineer, Android Applications (2014.01~2017.07)
 
 ### Education
-- 🤖 Aiffel , Artificial Intelligence (2021.06~ )
+- 🤖 Aiffel , Artificial Intelligence (2021.06~2021.12)
 - 🎓 Yuhan University , Information & Communication Engineering (2005.03~2010.02)
 
 ### Can do
